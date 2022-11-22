@@ -1,0 +1,13 @@
+{
+
+    "name": "Utils",
+
+    "description": "Javascript Utils",
+
+    "authors": "Javier Hurtado and Nacho",
+
+    "version": "1.0.0",
+
+    "type": "module"
+
+}
